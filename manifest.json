@@ -1,0 +1,12 @@
+{
+  "display_name": "ST Mobile Keyboard Fix",
+  "loading_order": 999,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Tuerye-23",
+  "version": "0.1.0",
+  "homePage": "https://github.com/Tuerye-23/sb1.18",
+  "auto_update": true
+}
