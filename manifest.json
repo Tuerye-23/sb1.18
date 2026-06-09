@@ -1,0 +1,10 @@
+{
+    "display_name": "Keyboard Fix",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "fix",
+    "version": "1.0.0"
+}
